@@ -34,7 +34,7 @@ body {
     background-color: var(--body-bg);
     font-weight: normal;
     color: var(--body-text-color);
-    padding: 0rem;
+    padding: 1rem;
 }
 
 .card {
